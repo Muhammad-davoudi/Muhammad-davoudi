@@ -20,13 +20,15 @@
   </a>
 </p>
 
+Hi, I’m **Muhammad Davoudi**, a **Data Scientist & AI Engineer** passionate about **Large Language Models (LLMs)** and **Agentic AI Systems**.  
+I enjoy turning complex data and cutting-edge research into **practical, production-ready AI applications**.
 
+- 🌟 **Focus:** Architecting **Multi-Agent workflows** with **LangGraph** and enhancing reasoning through **GRPO**.  
+- 🚀 **Exploration:** Experimenting with **Transformers, RAG pipelines, and PEFT techniques** to build smarter autonomous systems.  
+- 💻 **Implementation:** Developing interactive Data Science tools and AI applications using **FastAPI, Streamlit, and End-to-end MLOps**.  
+- 🧠 **Learning & Sharing:** Contributing to open-source and sharing insights on **GitHub, Kaggle, and Hugging Face**.
 
-
-## 👋 About Me
-Hi! I’m Muhamma dِavoudi, passionate about Data Science and AI.  
-I work on practical projects in machine learning and Large Language Models, and I’m always looking for opportunities to learn and contribute to challenging projects.
-
+> "I love exploring the 'why' behind AI models to create smarter, more efficient systems. Open to collaborations and innovative projects in AI and Data Science."
 
 ## 🖥️ Skills & Tech Stack
 
@@ -56,6 +58,21 @@ I work on practical projects in machine learning and Large Language Models, and 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
