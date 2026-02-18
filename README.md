@@ -10,20 +10,18 @@
 </p>
 
 ## 👋 About Me
+ 
+**Data Scientist | AI Engineer**
 
- Data Scientist |  AI Engineer 
+Building **production-ready AI systems** with real-world impact.
 
-LLMs • Agentic AI • Machine Learning • MLOps  
-Building production-ready AI systems.
+- 🚀 **Deployment & Delivery:** REST APIs, Docker, FastAPI, Streamlit, Gradio, MLOps  
+- 🧠 **LLMs & Transformers:** Transformers, RAG pipelines, PEFT  
+- 🤖 **Agentic AI Systems:** LangGraph, GRPO  
+- 📊 **Data Science & ML:** Data exploration, predictive modeling, actionable insights
 
-### Core Expertise
-- Deployment & Production (FastAPI, MLOps, Streamlit, Gradio)  
-- LLM Engineering (Transformers, RAG, PEFT)  
-- Multi-Agent Systems (LangGraph, GRPO)  
-- Data Science & Machine Learning  
-
+> I turn complex data and research into practical systems used in real workflows.  
 > Open to impactful collaborations in AI & Data Science.
-
 
 
 
