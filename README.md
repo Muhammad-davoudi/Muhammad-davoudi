@@ -23,7 +23,7 @@
 Hi, I’m **Muhammad Davoudi**, a **Data Scientist & AI Engineer** working with **LLMs, Agentic AI Systems**, and **end-to-end Data Science solutions**.  
 I turn AI research and complex data into **practical, production-ready applications**.
 
-- 🌟 **Expertise:** Architecting **Multi-Agent workflows** with **LangGraph**, enhancing reasoning with **GRPO**, and building scalable Data Science pipelines  
+- 🌟 **Expertise:** Architecting **Multi-Agent workflows** with **LangGraph**, enhancing reasoning with **GRPO**, and building scalable **Data Science** pipelines  
 - 🚀 Exploring **Transformers, RAG pipelines, PEFT techniques**, and advanced ML models  
 - 💻 Developing interactive AI tools and deploying solutions with **FastAPI, Streamlit, Gradio, and MLOps**
 
