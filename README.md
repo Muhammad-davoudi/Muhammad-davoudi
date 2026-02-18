@@ -2,6 +2,11 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-molladavoudi-b92a42178)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/muhammaddavoudi74)
 
+## 👋 About Me
+Hi! I’m Muhammad Molladavoudi, a Data Science & AI enthusiast focused on Large Language Models (LLMs).  
+I build practical AI projects and am actively seeking opportunities to contribute and grow in the AI/Data Science field.
+
+
 
 
 
