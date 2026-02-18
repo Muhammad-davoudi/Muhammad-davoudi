@@ -1,27 +1,99 @@
 # Muhammad Davoudi
+# 👋 Hi, I'm Muhammad Molladavoudi
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_ID)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/YOUR_KAGGLE_USERNAME)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+🎯 Aspiring Data Scientist & LLM Engineer  
+💡 Passionate about AI, Machine Learning, and Large Language Models  
+📍 Open to Junior AI / Data Science roles  
 
+---
 
-## 👋 About Me
+## 🚀 About Me
 
-AI Engineer specializing in building **Production LLM Systems**, **Agentic AI Platforms**, and scalable **Deep Learning** products. I turn complex NLP research into real-world autonomous systems.
+- 🎓 Background in Electrical Engineering (Electronics)
+- 📊 Currently focusing on Data Science & LLM Engineering
+- 🔍 Interested in building AI-powered applications
+- 🧠 Learning Transformers, RAG systems, and Model Deployment
 
-### 🚀 What I'm Doing Now
+---
 
-- 🤖 **Agentic Systems** - Orchestrating multi-agent workflows with **LangGraph** and **LangChain** for complex decision-making.
-- 🧠 **LLM Optimization** - Implementing advanced **RAG** pipelines, **Vector Databases**, and fine-tuning with **HuggingFace** and **OpenAI**.
-- ⚙️ **ML Engineering** - Building robust backend architectures with **FastAPI** and **Docker** to serve high-performance ML models.
+## 🛠️ Technical Skills
 
-### 🏗️ Architectural Paradigm (System Logic)
+### 👨‍💻 Programming
+- Python
+- SQL
+- Git
 
-I design systems that don't just predict, but reason. This is my standard production workflow:
+### 📊 Data Science
+- Pandas, NumPy
+- Data Cleaning & EDA
+- Data Visualization (Matplotlib, Seaborn)
+- Statistics Basics
 
-```mermaid
-graph LR
-    Data[(SQL/Vector DB)] --> Model(LLM/PyTorch)
-    Model --> Logic{LangGraph Logic}
-    Logic --> API[FastAPI Service]
-    API --> UI[Streamlit/Gradio]
+### 🤖 Machine Learning
+- Scikit-learn
+- Feature Engineering
+- Model Evaluation
+- Cross-validation
+
+### 🧠 LLM & NLP
+- Transformers
+- HuggingFace
+- Fine-tuning
+- Prompt Engineering
+- RAG (Retrieval-Augmented Generation)
+- LangChain
+
+### ⚙️ Deployment
+- FastAPI
+- Docker (Basic)
+- REST API Development
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 1. RAG-based QA System
+- Built a question-answering system using HuggingFace + LangChain
+- Integrated document retrieval (PDF/Web)
+- Deployed as API with FastAPI
+
+🔗 [Project Link]
+
+---
+
+### 🔹 2. Sentiment Analysis with Transformers
+- Fine-tuned transformer model on Persian dataset
+- Implemented evaluation metrics (F1, Accuracy)
+- Compared classical ML vs Deep Learning
+
+🔗 [Project Link]
+
+---
+
+### 🔹 3. End-to-End ML Pipeline
+- Data preprocessing → Model training → Evaluation → API
+- Used Scikit-learn
+- Documented workflow professionally
+
+🔗 [Project Link]
+
+---
+
+## 📈 Current Focus
+
+- Advanced LLM Applications
+- Production-ready AI systems
+- Improving system design knowledge
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: [Your LinkedIn Link]
+- Email: [Your Email]
+- Kaggle: [Your Kaggle Link]
+
+---
+
+⭐ Always learning. Always building.
+
