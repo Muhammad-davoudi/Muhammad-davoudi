@@ -8,16 +8,40 @@ I work on practical projects in machine learning and Large Language Models, and 
 
 ### 🖥 Skills
 
-| Skill Area | Tools / Frameworks |
-|------------|------------------|
-| 🤖 **Agentic AI & Multi-Agent Systems** | LangChain, LangGraph, AutoGen, LlamaIndex |
-| 🧠 **Large Language Models (LLMs)** | Fine-tuning,  |
-| 💻 **Backend Development** | FastAPI,SqlServer, PostgreSQL, RabbitMQ, Celery |
-| 📊 **Machine Learning & Deep Learning** | PyTorch, scikit-learn, Apache Spark |
-| ⚙️ **MLOps & Production ML Systems** | CI/CD, Model Deployment, Pipeline Automation |
-| ✍️ **Natural Language Processing (NLP)** | Tokenization, Text Classification, Sentiment Analysis, Persian NLP |
+#### 🤖 Agentic AI & Multi-Agent
+![LangChain](https://img.shields.io/badge/LangChain-blue?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-lightgrey?style=for-the-badge)
+![AutoGen](https://img.shields.io/badge/AutoGen-orange?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-purple?style=for-the-badge)
 
+#### 🧠 Large Language Models (LLMs)
+![Fine-tuning](https://img.shields.io/badge/Fine--tuning-red?style=for-the-badge)
+![LoRA](https://img.shields.io/badge/LoRA-green?style=for-the-badge)
+![RLHF](https://img.shields.io/badge/RLHF-blue?style=for-the-badge)
+![GRPO](https://img.shields.io/badge/GRPO-yellow?style=for-the-badge)
 
+#### 💻 Backend Development
+![FastAPI](https://img.shields.io/badge/FastAPI-lightblue?style=for-the-badge)
+![Django REST](https://img.shields.io/badge/Django%20REST-lightgrey?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-orange?style=for-the-badge)
+![Celery](https://img.shields.io/badge/Celery-purple?style=for-the-badge)
+
+#### 📊 Machine Learning & Deep Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-green?style=for-the-badge)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-yellow?style=for-the-badge)
+
+#### ⚙️ MLOps & Production Systems
+![CI/CD](https://img.shields.io/badge/CI/CD-blue?style=for-the-badge)
+![Deployment](https://img.shields.io/badge/Deployment-lightgrey?style=for-the-badge)
+![Pipeline Automation](https://img.shields.io/badge/Pipeline%20Automation-orange?style=for-the-badge)
+
+#### ✍️ Natural Language Processing (NLP)
+![Tokenization](https://img.shields.io/badge/Tokenization-red?style=for-the-badge)
+![Text Classification](https://img.shields.io/badge/Text%20Classification-green?style=for-the-badge)
+![Sentiment Analysis](https://img.shields.io/badge/Sentiment%20Analysis-yellow?style=for-the-badge)
+![Persian NLP](https://img.shields.io/badge/Persian%20NLP-lightblue?style=for-the-badge)
 
 
 
