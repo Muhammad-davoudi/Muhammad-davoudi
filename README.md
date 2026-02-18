@@ -20,14 +20,15 @@
   </a>
 </p>
 
-Hi, I’m **Muhammad Davoudi**, a **Data Scientist & AI Engineer** passionate about **Large Language Models (LLMs)** and **Agentic AI Systems**.  
-I transform complex data and cutting-edge AI research into **practical, production-ready applications**.
+Hi, I’m **Muhammad Davoudi**, a **Data Scientist & AI Engineer** working with **LLMs** and **Agentic AI Systems**.  
+I turn AI research into **practical, production-ready solutions**.
 
-- 🌟 **Expertise:** Architecting **Multi-Agent workflows** with **LangGraph** and enhancing reasoning with **GRPO**.  
-- 🚀 **Technical Focus:** Experimenting with **Transformers, RAG pipelines, and PEFT techniques**.  
-- 💻 **Implementation:** Building interactive AI tools with **FastAPI, Streamlit, and End-to-end MLOps**.
+- 🌟 **Expertise:** Architecting **Multi-Agent workflows** with **LangGraph** and enhancing reasoning with **GRPO**  
+- 🚀 Exploring **Transformers, RAG pipelines, and PEFT techniques**  
+- 💻 Building interactive AI tools and deploying solutions with **FastAPI, Streamlit, Gradio, and MLOps**
 
-> "I love exploring the 'why' behind AI models to create smarter, more efficient systems. Open to collaborations and innovative projects in AI and Data Science."
+> Open to collaborations and innovative AI projects where I can apply my expertise to real-world challenges.
+
 
 ## 🖥️ Skills & Tech Stack
 
@@ -79,14 +80,17 @@ I transform complex data and cutting-edge AI research into **practical, producti
 
 ---
 
-Hi, I’m **Muhammad Davoudi**, a **Data Scientist & AI Engineer** focused on **Large Language Models (LLMs)** and **Agentic AI Systems**.  
-I turn complex data and cutting-edge AI research into **practical, production-ready solutions**.
+Hi, I’m **Muhammad Davoudi**, a **Data Scientist & AI Engineer** working with **LLMs, Agentic AI Systems**, and **end-to-end Data Science solutions**.  
+I turn AI research and complex data into **practical, production-ready applications**.
 
-- 🌟 **Expertise:** Designing **Multi-Agent workflows** with **LangGraph** and improving reasoning with **GRPO**  
-- 🚀 **Technical Focus:** Exploring **Transformers, RAG pipelines, and PEFT techniques** for smarter AI systems  
-- 💻 **Implementation:** Developing interactive AI applications using **FastAPI, Streamlit, and End-to-end MLOps**
+- 🌟 **Expertise:** Architecting **Multi-Agent workflows** with **LangGraph**, enhancing reasoning with **GRPO**, and building scalable Data Science pipelines  
+- 🚀 Exploring **Transformers, RAG pipelines, PEFT techniques**, and advanced ML models  
+- 💻 Developing interactive AI tools and deploying solutions with **FastAPI, Streamlit, Gradio, and MLOps**
 
-> "I explore the 'why' behind AI models to create smarter, more efficient systems. Open to collaborations and innovative AI projects."
+> Open to collaborations and innovative projects where I can apply my expertise to real-world AI and Data Science challenges.
+
+
+
 
 ---
 
