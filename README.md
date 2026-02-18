@@ -20,15 +20,16 @@
   </a>
 </p>
 
-Hi, I’m **Muhammad Davoudi**, a **Data Scientist & AI Engineer** specializing in **LLMs, Agentic AI Systems**, and **end-to-end Data Science solutions**.  
-I turn complex data and cutting-edge AI research into **practical, production-ready applications**.
+Hi, I’m **Muhammad Davoudi**, a **Data Scientist & AI Engineer** focused on **LLMs, Agentic AI**, and **end-to-end Data Science solutions**.  
+I build **production-ready AI applications** from complex data and research.
 
-- 🌟 **Expertise:** Architecting **Multi-Agent workflows** with **LangGraph** and enhancing reasoning with **GRPO**
-- 🚀 **Technical Focus:** Experimenting with **Transformers, RAG pipelines, PEFT techniques**, and advanced ML models
-- 💻 **Implementation & Deployment:** Building interactive AI tools with **FastAPI, Streamlit, Gradio**, and operationalizing solutions through **MLOps**
-- 📊 **Data Science & Analytics:** Designing scalable pipelines and extracting actionable insights from complex datasets
+- 🌟 **Expertise:** Multi-Agent systems (**LangGraph**, **GRPO**)  
+- 🚀 **Core Stack:** **Transformers, RAG, PEFT**, Python & ML  
+- 💻 **Deployment:** **FastAPI, Streamlit, Gradio**, powered by **MLOps**  
+- 📊 **Data Science:** Turning complex datasets into actionable insights  
 
-> "Passionate about solving challenging AI problems and contributing to innovative projects. Open to collaborations where my expertise can drive real-world impact in **AI and Data Science**."
+> Open to impactful collaborations in **AI & Data Science**.
+
 
 
 
@@ -61,13 +62,6 @@ I turn complex data and cutting-edge AI research into **practical, production-re
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-
-
-
-
-
-
-
 
 
 
