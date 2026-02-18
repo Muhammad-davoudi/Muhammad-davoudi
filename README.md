@@ -20,15 +20,24 @@
   </a>
 </p>
 
-Hi, I’m **Muhammad Davoudi**, a **Data Scientist & AI Engineer** focused on **LLMs, Agentic AI**, and **end-to-end Data Science solutions**.  
-I build **production-ready AI applications** from complex data and research.
 
-- 🌟 **Expertise:** Multi-Agent systems (**LangGraph**, **GRPO**)  
-- 🚀 **Core Stack:** **Transformers, RAG, PEFT**, Python & ML  
-- 💻 **Deployment:** **FastAPI, Streamlit, Gradio**, powered by **MLOps**  
-- 📊 **Data Science:** Turning complex datasets into actionable insights  
+## 👋 Muhammad Davoudi  
+**Data Scientist | AI Engineer**
 
-> Open to impactful collaborations in **AI & Data Science**.
+🔹 Specialized in **LLMs, Agentic AI & End-to-End Data Science**  
+🔹 Building **production-ready AI systems**
+
+
+### 🚀 Core Expertise
+- LLM & Agentic AI (LangGraph, GRPO, Transformers, RAG, PEFT)  
+- Machine Learning & Data Science  
+- Deployment & MLOps (FastAPI, Streamlit, Gradio)
+
+
+
+> Turning complex data into intelligent, real-world AI solutions.  
+> Open to impactful collaborations in AI & Data Science.
+
 
 
 
