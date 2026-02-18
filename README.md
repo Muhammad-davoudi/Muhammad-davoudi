@@ -8,17 +8,20 @@
   <a href="https://huggingface.co/muhammaddavoudi"><img src="https://img.shields.io/badge/Hugging%20Face-121011?style=for-the-badge&logo=huggingface&logoColor=FFD21E" /></a>
   <a href="https://www.kaggle.com/muhammaddavoudi74"><img src="https://img.shields.io/badge/Kaggle-121011?style=for-the-badge&logo=kaggle&logoColor=20BEFF" /></a>
 </p>
+## 👋 Muhammad Davoudi  
+**Data Scientist | AI Engineer**
 
-## 👋 About Me 
-Hi, I’m **Muhammad Davoudi**, a **Data Scientist & AI Engineer** focused on **LLMs, Agentic AI**, and **end-to-end Data Science solutions**.  
-I build **production-ready AI applications** from complex data and research.
+LLMs • Agentic AI • Machine Learning • MLOps  
+Building production-ready AI systems.
 
-- 🌟 **Expertise:** Multi-Agent systems (**LangGraph**, **GRPO**)  
-- 🚀 **Core Stack:** **Transformers, RAG, PEFT**, Python & ML  
-- 💻 **Deployment:** **FastAPI, Streamlit, Gradio**, powered by **MLOps**  
-- 📊 **Data Science:** Turning complex datasets into actionable insights  
+### Core Expertise
+- Deployment & Production (FastAPI, MLOps, Streamlit, Gradio)  
+- LLM Engineering (Transformers, RAG, PEFT)  
+- Multi-Agent Systems (LangGraph, GRPO)  
+- Data Science & Machine Learning  
 
-> Open to impactful collaborations in **AI & Data Science**.
+> Open to impactful collaborations in AI & Data Science.
+
 
 
 
