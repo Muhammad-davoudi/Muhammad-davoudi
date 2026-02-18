@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_ID)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/YOUR_KAGGLE_USERNAME)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![Github](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=social)](https://github.com/YOUR_GITHUB_USERNAME)
+
 
 ## 👋 About Me
 
