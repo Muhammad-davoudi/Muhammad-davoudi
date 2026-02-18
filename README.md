@@ -1,74 +1,35 @@
+# 🤖 AI & Machine Learning Engineer
+## Specialist in Agentic AI | LLMs | MLOps
 
-## Muhammad Molladavoudi
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=500&lines=Agentic+Workflows+w%2F+LangGraph;RAG+%26+Vector+Databases;Deep+Learning+%26+Transformers;End-to-End+MLOps+Pipelines" alt="Typing SVG" />
+</p>
 
-AI & Data Science Enthusiast  
-Background in Electrical Engineering  
-
----
-
-## About
-
-I am building a career at the intersection of Data Science and Large Language Models.  
-My focus is on practical, project-based learning and developing real-world solutions.
-
-- Background in Electrical Engineering (Electronics)
-- Strong interest in Data Science, Machine Learning, and LLM-based systems
-- Actively building end-to-end projects
-- Seeking entry-level roles in Data Science / AI
+### 👨‍💻 About Me
+I am an AI Engineer dedicated to building **Autonomous Agentic Systems**. My expertise lies in orchestrating complex reasoning loops using **LangGraph**, optimizing **RAG** pipelines, and deploying production-ready models. I bridge the gap between deep research and scalable engineering.
 
 ---
 
-## Focus Areas
+### 🛠 Technical Ecosystem
 
-### Data Science
-- Data cleaning and preprocessing
-- Exploratory Data Analysis (EDA)
-- Feature engineering
-- Machine Learning with scikit-learn
-- Model evaluation and interpretation
-
-### Large Language Models
-- Prompt engineering
-- Working with LLM APIs
-- Text preprocessing
-- Embeddings and vector-based search
-- Retrieval-Augmented Generation (RAG) fundamentals
+| Domain | Tools & Frameworks |
+| :--- | :--- |
+| **Core AI** | `PyTorch`, `Transformers`, `HuggingFace`, `Scikit-Learn`, `OpenAI`, `NLTK` |
+| **Agentic AI** | **LangGraph**, `LangChain`, `Prompt Engineering` |
+| **Data Engineering** | `Pandas`, `NumPy`, `SciPy`, `SQL Server` |
+| **Visualization & BI** | `Matplotlib`, `Seaborn`, `Plotly`, `Power BI` |
+| **Production & MLOps** | `FastAPI`, **Docker**, `Git`, `Streamlit`, `Gradio` |
 
 ---
 
-## Technical Skills
+### 🏗️ Architectural Paradigm (Agentic Flow)
+I design systems that don't just predict, but reason. This is my standard production workflow:
 
-- Programming: Python
-- Data: Pandas, NumPy, SQL
-- Machine Learning: Scikit-learn
-- Visualization: Matplotlib
-- Tools: Git, GitHub, Linux, Docker, Jupyter Notebook
-
----
-
-## Selected Projects
-
-### Customer Churn Prediction
-End-to-end machine learning pipeline including data preprocessing, modeling, and evaluation.
-
-### House Price Prediction
-Regression modeling with feature engineering and performance analysis.
-
-### LLM-based Document Q&A
-Retrieval-Augmented Generation (RAG) system for querying documents using LLMs.
-
----
-
-## Currently Learning
-
-- Advanced Machine Learning concepts
-- LLM application design
-- Model deployment basics
-
----
-
-## Contact
-
-- LinkedIn: (add link)
-- GitHub: https://github.com/Muhammaddavoudi
-- Email: (add email)
+```mermaid
+graph LR
+    A[(SQL / Vector DB)] --> B(LLM / Transformer)
+    B --> C{LangGraph Logic}
+    C --> D[FastAPI Service]
+    D --> E[Gradio / Streamlit UI]
+    E --> F{User Feedback}
+    F -->|Self-Correction| C
