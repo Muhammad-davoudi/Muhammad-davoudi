@@ -11,8 +11,8 @@ I work on practical projects in machine learning and Large Language Models, and 
 | Skill Area | Tools / Frameworks |
 |------------|------------------|
 | 🤖 **Agentic AI & Multi-Agent Systems** | LangChain, LangGraph, AutoGen, LlamaIndex |
-| 🧠 **Large Language Models (LLMs)** | Fine-tuning, LoRA, RLHF, GRPO |
-| 💻 **Backend Development** | FastAPI, Django REST Framework, PostgreSQL, RabbitMQ, Celery |
+| 🧠 **Large Language Models (LLMs)** | Fine-tuning,  |
+| 💻 **Backend Development** | FastAPI,SqlServer, PostgreSQL, RabbitMQ, Celery |
 | 📊 **Machine Learning & Deep Learning** | PyTorch, scikit-learn, Apache Spark |
 | ⚙️ **MLOps & Production ML Systems** | CI/CD, Model Deployment, Pipeline Automation |
 | ✍️ **Natural Language Processing (NLP)** | Tokenization, Text Classification, Sentiment Analysis, Persian NLP |
