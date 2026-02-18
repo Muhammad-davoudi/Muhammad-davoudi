@@ -51,10 +51,12 @@ I work on practical projects in machine learning and Large Language Models, and 
 ![Text Classification](https://img.shields.io/badge/Text%20Classification-green?style=for-the-badge)
 ![Sentiment Analysis](https://img.shields.io/badge/Sentiment%20Analysis-yellow?style=for-the-badge)
 ![Persian NLP](https://img.shields.io/badge/Persian%20NLP-lightblue?style=for-the-badge)-->
+
+
 ### 🖥 Skills
 
 #### 🤖 Agentic AI & Multi-Agent
-![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat-square&logo=LangChain)
+![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat-square)
 ![LangGraph](https://img.shields.io/badge/-LangGraph-05122A?style=flat-square)
 ![AutoGen](https://img.shields.io/badge/-AutoGen-05122A?style=flat-square)
 ![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-05122A?style=flat-square)
@@ -69,6 +71,7 @@ I work on practical projects in machine learning and Large Language Models, and 
 ![Prompt Engineering](https://img.shields.io/badge/-Prompt_Engineering-05122A?style=flat-square)
 
 #### 💻 Backend Development
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat-square&logo=FastAPI)
 ![Django REST](https://img.shields.io/badge/-Django_REST-05122A?style=flat-square&logo=Django)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL)
@@ -85,13 +88,14 @@ I work on practical projects in machine learning and Large Language Models, and 
 ![plotly](https://img.shields.io/badge/-plotly-05122A?style=flat-square)
 
 #### 🚀 Model Deployment & Interactive Apps
-![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat-square)
+![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat-square&logo=Streamlit)
 ![Gradio](https://img.shields.io/badge/-Gradio-05122A?style=flat-square)
 
 #### ⚙️ MLOps & Workflow Automation
 ![CI/CD](https://img.shields.io/badge/-CI_CD-05122A?style=flat-square)
 ![Deployment](https://img.shields.io/badge/-Deployment-05122A?style=flat-square)
 ![Pipeline Automation](https://img.shields.io/badge/-Pipeline_Automation-05122A?style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker)
 ![n8n](https://img.shields.io/badge/-n8n-05122A?style=flat-square)
 ![Dify](https://img.shields.io/badge/-Dify-05122A?style=flat-square)
 ![Flowise](https://img.shields.io/badge/-Flowise-05122A?style=flat-square)
@@ -101,6 +105,8 @@ I work on practical projects in machine learning and Large Language Models, and 
 ![Text Classification](https://img.shields.io/badge/-Text_Classification-05122A?style=flat-square)
 ![Sentiment Analysis](https://img.shields.io/badge/-Sentiment_Analysis-05122A?style=flat-square)
 ![Persian NLP](https://img.shields.io/badge/-Persian_NLP-05122A?style=flat-square)
+
+
 
 
 
