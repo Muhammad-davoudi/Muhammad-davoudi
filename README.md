@@ -8,24 +8,49 @@ Hi! I’m Muhamma dِavoudi, passionate about Data Science and AI.
 I work on practical projects in machine learning and Large Language Models, and I’m always looking for opportunities to learn and contribute to challenging projects.
 
 
+## 🛠 Skills & Tech Stack
 
-### 🛠 Skills
-
-**AI & ML**
+### 🧠 AI & Data
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,pandas&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,pandas&theme=light" />
 </p>
 
-**Backend**
+### 🧬 LLMs & NLP
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python&theme=light" />
 </p>
 
-**Deployment & Automation**
+![Transformers](https://img.shields.io/badge/Transformers-3a3a3a?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-3a3a3a?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-3a3a3a?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-3a3a3a?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-3a3a3a?style=flat-square)
+![AutoGen](https://img.shields.io/badge/AutoGen-3a3a3a?style=flat-square)
+
+### ⚙️ Backend for AI
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres&theme=light" />
+</p>
+
+![Pydantic](https://img.shields.io/badge/Pydantic-3a3a3a?style=flat-square)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-3a3a3a?style=flat-square)
+
+### 📊 Visualization & Apps
+<p>
+  <img src="https://skillicons.dev/icons?i=streamlit,gradio&theme=light" />
+</p>
+
+![Plotly](https://img.shields.io/badge/Plotly-3a3a3a?style=flat-square)
+
+### 🔁 Automation & Agents
+![n8n](https://img.shields.io/badge/n8n-3a3a3a?style=flat-square)
+![Dify](https://img.shields.io/badge/Dify-3a3a3a?style=flat-square)
+![Flowise](https://img.shields.io/badge/Flowise-3a3a3a?style=flat-square)
+
+### 🚀 MLOps & Deployment
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,linux&theme=light" />
 </p>
-
 
 
 
