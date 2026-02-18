@@ -7,20 +7,20 @@
 Hi! I’m Muhamma dِavoudi, passionate about Data Science and AI.  
 I work on practical projects in machine learning and Large Language Models, and I’m always looking for opportunities to learn and contribute to challenging projects.
 
-### 🖥 Skills
+<!--### 🖥 Skills
 
 #### 🤖 Agentic AI & Multi-Agent
 ![LangChain](https://img.shields.io/badge/LangChain-blue?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-lightgrey?style=for-the-badge)
-<!--![AutoGen](https://img.shields.io/badge/AutoGen-orange?style=for-the-badge)-->
-<!--![LlamaIndex](https://img.shields.io/badge/LlamaIndex-purple?style=for-the-badge)-->
+<!--![AutoGen](https://img.shields.io/badge/AutoGen-orange?style=for-the-badge)
+<!--![LlamaIndex](https://img.shields.io/badge/LlamaIndex-purple?style=for-the-badge)
 
 #### 🧠 Large Language Models (LLMs) & Transformers
 ![Fine-tuning](https://img.shields.io/badge/Fine--tuning-red?style=for-the-badge)
 ![Transformers](https://img.shields.io/badge/Transformers-HuggingFace-red?style=for-the-badge)
-<!--!![LoRA](https://img.shields.io/badge/LoRA-green?style=for-the-badge)-->
-<!--!![RLHF](https://img.shields.io/badge/RLHF-blue?style=for-the-badge)-->
-<!--!![GRPO](https://img.shields.io/badge/GRPO-yellow?style=for-the-badge)-->
+<!--!![LoRA](https://img.shields.io/badge/LoRA-green?style=for-the-badge)
+<!--!![RLHF](https://img.shields.io/badge/RLHF-blue?style=for-the-badge)
+<!--!![GRPO](https://img.shields.io/badge/GRPO-yellow?style=for-the-badge)
 
 #### 💻 Backend Development
 ![FastAPI](https://img.shields.io/badge/FastAPI-lightblue?style=for-the-badge)
@@ -50,7 +50,7 @@ I work on practical projects in machine learning and Large Language Models, and 
 ![Tokenization](https://img.shields.io/badge/Tokenization-red?style=for-the-badge)
 ![Text Classification](https://img.shields.io/badge/Text%20Classification-green?style=for-the-badge)
 ![Sentiment Analysis](https://img.shields.io/badge/Sentiment%20Analysis-yellow?style=for-the-badge)
-![Persian NLP](https://img.shields.io/badge/Persian%20NLP-lightblue?style=for-the-badge)
+![Persian NLP](https://img.shields.io/badge/Persian%20NLP-lightblue?style=for-the-badge)-->
 
 
 
