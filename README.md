@@ -98,6 +98,16 @@ I work on practical projects in machine learning and Large Language Models, and 
 
 
 
+### 🛠 Tech
+
+**AI**
+<p><img src="https://skillicons.dev/icons?i=pytorch,sklearn" /></p>
+
+**Backend**
+<p><img src="https://skillicons.dev/icons?i=python,fastapi,postgres" /></p>
+
+**MLOps**
+<p><img src="https://skillicons.dev/icons?i=docker,git,linux" /></p>
 
 
 
