@@ -8,7 +8,8 @@
   <a href="https://huggingface.co/muhammaddavoudi"><img src="https://img.shields.io/badge/Hugging%20Face-121011?style=for-the-badge&logo=huggingface&logoColor=FFD21E" /></a>
   <a href="https://www.kaggle.com/muhammaddavoudi74"><img src="https://img.shields.io/badge/Kaggle-121011?style=for-the-badge&logo=kaggle&logoColor=20BEFF" /></a>
 </p>
-👋 About Me
+
+## 👋 About Me
 
  Data Scientist |  AI Engineer 
 
