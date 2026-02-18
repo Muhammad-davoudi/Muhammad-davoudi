@@ -110,6 +110,78 @@ I work on practical projects in machine learning and Large Language Models, and 
 <p><img src="https://skillicons.dev/icons?i=docker,git,linux" /></p>
 
 
+### 🧠 Core Capabilities
+
+- **LLM Systems**  
+  Transformers · Fine-tuning · LoRA · RLHF · RAG · Agents
+
+- **Data Science & ML**  
+  Pandas · NumPy · Scikit-learn · Feature Engineering · Evaluation
+
+- **Backend for AI**  
+  FastAPI · Pydantic · SQLAlchemy · Async APIs
+
+- **Automation & Orchestration**  
+  n8n · Dify · Flowise · LangChain
+
+- **MLOps & Deployment**  
+  Docker · Experiment Tracking · Model Serving
+### 🔬 Skills & Evidence
+
+🧠 **LLMs & NLP**  
+- Transformers, RAG, Agents  
+- Implemented via LangChain, HuggingFace
+
+📊 **Data Science**  
+- Pandas, Scikit-learn, Plotly  
+- Kaggle notebooks & EDA projects
+
+⚙️ **Backend & APIs**  
+- FastAPI, SQLAlchemy, Pydantic  
+- Production-ready REST services
+
+🚀 **Deployment & Automation**  
+- Dockerized services  
+- Workflow automation with n8n
+
+
+### 🧬 AI Stack
+
+**Model Layer**  
+Transformers · PyTorch · HuggingFace
+
+**Data Layer**  
+Pandas · NumPy · Feature Engineering · EDA
+
+**Service Layer**  
+FastAPI · Pydantic · SQLAlchemy
+
+**Automation Layer**  
+n8n · Dify · Flowise · Agents
+
+**Deployment Layer**  
+Docker · Linux · Git
+
+
+### 🧠 Expertise
+
+LLMs · Data Science · Backend for AI · Automation · Deployment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
