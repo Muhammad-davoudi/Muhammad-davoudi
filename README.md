@@ -17,44 +17,20 @@ I work on practical projects in machine learning and Large Language Models, and 
 
 ### 🧬 LLMs & NLP
 <p>
-  <img src="https://skillicons.dev/icons?i=python&theme=light" />
+  <img src="https://skillicons.dev/icons?i=huggingface,python&theme=light" />
 </p>
-
-![Transformers](https://img.shields.io/badge/Transformers-3a3a3a?style=flat-square)
-![LLMs](https://img.shields.io/badge/LLMs-3a3a3a?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-3a3a3a?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-3a3a3a?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-3a3a3a?style=flat-square)
-![AutoGen](https://img.shields.io/badge/AutoGen-3a3a3a?style=flat-square)
 
 ### ⚙️ Backend for AI
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,postgres&theme=light" />
 </p>
 
-![Pydantic](https://img.shields.io/badge/Pydantic-3a3a3a?style=flat-square)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-3a3a3a?style=flat-square)
-
 ### 📊 Visualization & Apps
 <p>
   <img src="https://skillicons.dev/icons?i=streamlit,gradio&theme=light" />
 </p>
 
-![Plotly](https://img.shields.io/badge/Plotly-3a3a3a?style=flat-square)
-
-### 🔁 Automation & Agents
-![n8n](https://img.shields.io/badge/n8n-3a3a3a?style=flat-square)
-![Dify](https://img.shields.io/badge/Dify-3a3a3a?style=flat-square)
-![Flowise](https://img.shields.io/badge/Flowise-3a3a3a?style=flat-square)
-
-### 🚀 MLOps & Deployment
+### 🚀 Deployment & Automation
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,linux&theme=light" />
 </p>
-
-
-
-
-
-
-
