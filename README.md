@@ -15,10 +15,10 @@
 
 Building **production-ready AI systems** with real-world impact.
 
-- 🚀 **Deployment & Delivery:** REST APIs, Docker, FastAPI, Streamlit, Gradio, MLOps  
-- 🧠 **LLMs & Transformers:** Transformers, RAG pipelines, PEFT  
-- 🤖 **Agentic AI Systems:** LangGraph, GRPO  
-- 📊 **Data Science & ML:** Data exploration, predictive modeling, actionable insights
+- 🚀 **Deployment & Delivery:** REST APIs, Docker, FastAPI, Streamlit, Gradio, MLOps.  
+- 🧠 **LLMs & Transformers:** Transformers, RAG pipelines, PEFT. 
+- 🤖 **Agentic AI Systems:** LangGraph. 
+- 📊 **Data Science & ML:** Data exploration, predictive modeling, actionable insights.
 
 > I turn complex data and research into practical systems used in real workflows.  
 > Open to impactful collaborations in AI & Data Science.
