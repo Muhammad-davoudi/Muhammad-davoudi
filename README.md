@@ -31,7 +31,7 @@ Building **production-ready AI systems** with real-world impact.
 ### 🤖 Agentic AI & Multi-Agent
 ![LangChain](https://img.shields.io/badge/LangChain-121011?style=for-the-badge&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0052FF?style=for-the-badge&logo=graphwork&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llama&logoColor=white)
+<!--![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llama&logoColor=white)-->
 
 ### 🧠 LLMs, Transformers & NLP
 ![Transformers](https://img.shields.io/badge/Transformers-8A2BE2?style=for-the-badge&logo=huggingface&logoColor=white)
