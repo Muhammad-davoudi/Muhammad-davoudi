@@ -8,13 +8,15 @@ I work on practical projects in machine learning and Large Language Models, and 
 
 ### 🖥 Skills
 
-![Agentic AI & Multi-Agent](https://img.shields.io/badge/Agentic%20AI-LangChain-blue)
-![LLMs](https://img.shields.io/badge/LLMs-Fine-tuning-orange)
-![Backend](https://img.shields.io/badge/Backend-FastAPI-lightgrey)
-![Machine Learning](https://img.shields.io/badge/ML-PyTorch-red)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Apache%20Spark-yellow)
-![MLOps](https://img.shields.io/badge/MLOps-Production%20Ready-green)
-![NLP](https://img.shields.io/badge/NLP-Text%20Processing-lightblue)
+| Skill Area | Tools / Frameworks |
+|------------|------------------|
+| 🤖 **Agentic AI & Multi-Agent Systems** | LangChain, LangGraph, AutoGen, LlamaIndex |
+| 🧠 **Large Language Models (LLMs)** | Fine-tuning, LoRA, RLHF, GRPO |
+| 💻 **Backend Development** | FastAPI, Django REST Framework, PostgreSQL, RabbitMQ, Celery |
+| 📊 **Machine Learning & Deep Learning** | PyTorch, scikit-learn, Apache Spark |
+| ⚙️ **MLOps & Production ML Systems** | CI/CD, Model Deployment, Pipeline Automation |
+| ✍️ **Natural Language Processing (NLP)** | Tokenization, Text Classification, Sentiment Analysis, Persian NLP |
+
 
 
 
