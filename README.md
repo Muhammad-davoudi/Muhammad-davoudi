@@ -21,21 +21,18 @@
 </p>
 
 
-## 👋 Muhammad Davoudi  
+## 👋 About Me 
 **Data Scientist | AI Engineer**
 
-🔹 Specialized in **LLMs, Agentic AI & End-to-End Data Science**  
-🔹 Building **production-ready AI systems**
+LLMs • Agentic AI • Machine Learning • MLOps  
+Building production-ready AI systems.
 
 
-### 🚀 Core Expertise
-- LLM & Agentic AI (LangGraph, GRPO, Transformers, RAG, PEFT)  
-- Machine Learning & Data Science  
-- Deployment & MLOps (FastAPI, Streamlit, Gradio)
+### Core Expertise
+- Multi-Agent Systems (LangGraph, GRPO)  
+- LLM Engineering (Transformers, RAG, PEFT)  
+- Deployment (FastAPI, Streamlit, Gradio)  
 
-
-
-> Turning complex data into intelligent, real-world AI solutions.  
 > Open to impactful collaborations in AI & Data Science.
 
 
