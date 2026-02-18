@@ -1,39 +1,26 @@
 # Muhammad Davoudi
 
-
-
+### 🔗 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/muhammad-molladavoudi-b92a42178"  target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
-
-  <a href="mailto:davoudi.muhammad7474@gmail.com">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" width="32" height="32" alt="Gmail" />
-  </a>&nbsp;&nbsp;
-
-  <a href="https://www.kaggle.com/muhammaddavoudi74" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="32" height="32" alt="Kaggle" />
-  </a>&nbsp;&nbsp;
-
-  <a href="https://huggingface.co/muhammaddavoudi" target="_blank">
-    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="30" height="30" alt="HuggingFace" />
-  </a>
+  <a href="mailto:davoudi.muhammad7474@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-molladavoudi-b92a42178"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://huggingface.co/muhammaddavoudi"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
+  <a href="https://www.kaggle.com/muhammaddavoudi74"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 </p>
 
+---
 
 ## 👋 About Me 
-**Data Scientist | AI Engineer**
+Hi, I’m **Muhammad Davoudi**, a **Data Scientist & AI Engineer** focused on **LLMs, Agentic AI**, and **end-to-end Data Science solutions**.  
+I build **production-ready AI applications** from complex data and research.
 
-LLMs • Agentic AI • Machine Learning • MLOps  
-Building production-ready AI systems.
+- 🌟 **Expertise:** Multi-Agent systems (**LangGraph**, **GRPO**)  
+- 🚀 **Core Stack:** **Transformers, RAG, PEFT**, Python & ML  
+- 💻 **Deployment:** **FastAPI, Streamlit, Gradio**, powered by **MLOps**  
+- 📊 **Data Science:** Turning complex datasets into actionable insights  
 
+> Open to impactful collaborations in **AI & Data Science**.
 
-### Core Expertise
-- Multi-Agent Systems (LangGraph, GRPO)  
-- LLM Engineering (Transformers, RAG, PEFT)  
-- Deployment (FastAPI, Streamlit, Gradio)  
-
-> Open to impactful collaborations in AI & Data Science.
 
 
 
