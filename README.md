@@ -15,7 +15,7 @@
 
 Building **production-ready AI systems** with real-world impact.
 
-- 🚀 **Deployment & Delivery:** REST APIs, Docker, FastAPI, Streamlit, Gradio, MLOps.  
+- 🚀 **Deployment & Delivery:** Docker, FastAPI, Streamlit, Gradio, MLOps.  
 - 🧠 **LLMs & Transformers:** Transformers, RAG pipelines, PEFT. 
 - 🤖 **Agentic AI Systems:** LangGraph. 
 - 📊 **Data Science & ML:** Data exploration, predictive modeling, actionable insights.
