@@ -9,16 +9,17 @@ I work on practical projects in machine learning and Large Language Models, and 
 
 
 
-### 🧠 Tech Stack
+### 🧩 AI & Data Skills
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,pandas,fastapi,postgres,docker,git,linux&theme=light" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,pandas,fastapi,docker&theme=light" />
 </p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=streamlit,gradio&theme=light" />
-</p>
-
+![Transformers](https://img.shields.io/badge/Transformers-444444?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-444444?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-444444?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-444444?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-444444?style=flat-square)
 
 
 
