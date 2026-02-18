@@ -20,14 +20,15 @@
   </a>
 </p>
 
-Hi, I’m **Muhammad Davoudi**, a **Data Scientist & AI Engineer** working with **LLMs** and **Agentic AI Systems**.  
-I turn AI research into **practical, production-ready solutions**.
+Hi, I’m **Muhammad Davoudi**, a **Data Scientist & AI Engineer** working with **LLMs, Agentic AI Systems**, and **end-to-end Data Science solutions**.  
+I turn AI research and complex data into **practical, production-ready applications**.
 
-- 🌟 **Expertise:** Architecting **Multi-Agent workflows** with **LangGraph** and enhancing reasoning with **GRPO**  
-- 🚀 Exploring **Transformers, RAG pipelines, and PEFT techniques**  
-- 💻 Building interactive AI tools and deploying solutions with **FastAPI, Streamlit, Gradio, and MLOps**
+- 🌟 **Expertise:** Architecting **Multi-Agent workflows** with **LangGraph**, enhancing reasoning with **GRPO**, and building scalable Data Science pipelines  
+- 🚀 Exploring **Transformers, RAG pipelines, PEFT techniques**, and advanced ML models  
+- 💻 Developing interactive AI tools and deploying solutions with **FastAPI, Streamlit, Gradio, and MLOps**
 
-> Open to collaborations and innovative AI projects where I can apply my expertise to real-world challenges.
+> Open to collaborations and innovative projects where I can apply my expertise to real-world AI and Data Science challenges.
+
 
 
 ## 🖥️ Skills & Tech Stack
