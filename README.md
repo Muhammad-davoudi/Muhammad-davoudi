@@ -61,6 +61,70 @@ I enjoy turning complex data and cutting-edge research into **practical, product
 
 
 
+# Muhammad Davoudi
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-molladavoudi-b92a42178"  target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn" /> LinkedIn
+  </a>&nbsp;&nbsp;
+  <a href="mailto:davoudi.muhammad7474@gmail.com">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" width="32" height="32" alt="Gmail" /> Email
+  </a>&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/muhammaddavoudi74" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="32" height="32" alt="Kaggle" /> Kaggle
+  </a>&nbsp;&nbsp;
+  <a href="https://huggingface.co/muhammaddavoudi" target="_blank">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="32" height="32" alt="HuggingFace" /> HuggingFace
+  </a>
+</p>
+
+---
+
+Hi, I’m **Muhammad Davoudi**, a **Data Scientist & AI Engineer** passionate about **LLMs** and **Agentic AI Systems**.  
+I transform cutting-edge research into **practical, production-ready AI applications**.
+
+- 🌟 **Focus:** Architecting **Multi-Agent workflows** with **LangGraph** and enhancing reasoning with **GRPO**  
+- 🚀 **Exploration:** Experimenting with **Transformers, RAG pipelines, PEFT techniques**  
+- 💻 **Implementation:** Building interactive AI tools with **FastAPI, Streamlit, Gradio, and end-to-end MLOps**  
+- 🧠 **Sharing:** Contributing to open-source on **GitHub, Kaggle, HuggingFace**
+
+> "I explore the 'why' behind AI models to create smarter, more efficient systems. Open to collaborations on innovative AI initiatives."
+
+---
+
+## 🖥️ Skills & Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-121011?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" /> LangChain &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/LangGraph-0052FF?style=flat-square&logo=graphwork&logoColor=white" alt="LangGraph" /> LangGraph &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square&logo=llama&logoColor=white" alt="LlamaIndex" /> LlamaIndex
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Transformers-8A2BE2?style=flat-square&logo=huggingface&logoColor=white" alt="Transformers" /> Transformers &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace" /> HuggingFace &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/NLP-4B0082?style=flat-square&logo=openai&logoColor=white" alt="NLP" /> NLP &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" /> PyTorch
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> Python &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> FastAPI &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" /> Streamlit &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Gradio-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Gradio" /> Gradio
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" /> scikit-learn &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" /> Pandas &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark" /> Apache Spark
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> Docker &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /> Git &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> PostgreSQL
+</p>
 
 
 
