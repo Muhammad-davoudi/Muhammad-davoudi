@@ -53,62 +53,7 @@ I work on practical projects in machine learning and Large Language Models, and 
 ![Persian NLP](https://img.shields.io/badge/Persian%20NLP-lightblue?style=for-the-badge)-->
 
 
-### 🖥 Skills
-
-#### 🤖 Agentic AI & Multi-Agent
-![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat-square)
-![LangGraph](https://img.shields.io/badge/-LangGraph-05122A?style=flat-square)
-![AutoGen](https://img.shields.io/badge/-AutoGen-05122A?style=flat-square)
-![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-05122A?style=flat-square)
-
-#### 🧠 Large Language Models (LLMs) & Transformers
-[![HuggingFace](https://img.shields.io/badge/-HuggingFace-05122A?style=flat-square&logo=HuggingFace)](https://huggingface.co/USERNAME)
-![Transformers](https://img.shields.io/badge/-Transformers-05122A?style=flat-square)
-![Fine-tuning](https://img.shields.io/badge/-Fine-tuning-05122A?style=flat-square)
-![LoRA](https://img.shields.io/badge/-LoRA-05122A?style=flat-square)
-![RLHF](https://img.shields.io/badge/-RLHF-05122A?style=flat-square)
-![GRPO](https://img.shields.io/badge/-GRPO-05122A?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/-Prompt_Engineering-05122A?style=flat-square)
-
-#### 💻 Backend Development
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python)
-![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat-square&logo=FastAPI)
-![Django REST](https://img.shields.io/badge/-Django_REST-05122A?style=flat-square&logo=Django)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat-square)
-![Celery](https://img.shields.io/badge/-Celery-05122A?style=flat-square)
-![Pydantic](https://img.shields.io/badge/-Pydantic-05122A?style=flat-square)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-05122A?style=flat-square)
-
-#### 📊 Machine Learning & Data Analysis
-![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=PyTorch)
-![scikit-learn](https://img.shields.io/badge/-scikit_learn-05122A?style=flat-square)
-![pandas](https://img.shields.io/badge/-pandas-05122A?style=flat-square)
-![Apache Spark](https://img.shields.io/badge/-Apache_Spark-05122A?style=flat-square)
-![plotly](https://img.shields.io/badge/-plotly-05122A?style=flat-square)
-
-#### 🚀 Model Deployment & Interactive Apps
-![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat-square&logo=Streamlit)
-![Gradio](https://img.shields.io/badge/-Gradio-05122A?style=flat-square)
-
-#### ⚙️ MLOps & Workflow Automation
-![CI/CD](https://img.shields.io/badge/-CI_CD-05122A?style=flat-square)
-![Deployment](https://img.shields.io/badge/-Deployment-05122A?style=flat-square)
-![Pipeline Automation](https://img.shields.io/badge/-Pipeline_Automation-05122A?style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker)
-![n8n](https://img.shields.io/badge/-n8n-05122A?style=flat-square)
-![Dify](https://img.shields.io/badge/-Dify-05122A?style=flat-square)
-![Flowise](https://img.shields.io/badge/-Flowise-05122A?style=flat-square)
-
-#### ✍️ Natural Language Processing (NLP)
-![Tokenization](https://img.shields.io/badge/-Tokenization-05122A?style=flat-square)
-![Text Classification](https://img.shields.io/badge/-Text_Classification-05122A?style=flat-square)
-![Sentiment Analysis](https://img.shields.io/badge/-Sentiment_Analysis-05122A?style=flat-square)
-![Persian NLP](https://img.shields.io/badge/-Persian_NLP-05122A?style=flat-square)
-
-
-
-
+![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=Python)
 
 
 
