@@ -1,6 +1,5 @@
 # Muhammad Davoudi
 
-
 ### 🔗 Connect with Me
 <p align="left">
   <a href="mailto:davoudi.muhammad7474@gmail.com"><img src="https://img.shields.io/badge/Gmail-121011?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
