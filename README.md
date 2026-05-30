@@ -3,9 +3,9 @@
 ### 🔗 Connect with Me
 <p align="left">
   <a href="mailto:davoudi.muhammad7474@gmail.com"><img src="https://img.shields.io/badge/Gmail-121011?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
-  <a href="https://www.linkedin.com/in/muhammad-molladavoudi-b92a42178"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://huggingface.co/muhammaddavoudi"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-121011?style=for-the-badge&logo=huggingface&logoColor=FFD21E" /></a>
-  <a href="https://www.kaggle.com/muhammaddavoudi74"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-molladavoudi-b92a42178"><img src="https://img.shields.io/badge/LinkedIn-121011?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="https://huggingface.co/muhammaddavoudi"><img src="https://img.shields.io/badge/Hugging%20Face-121011?style=for-the-badge&logo=huggingface&logoColor=FFD21E" /></a>
+  <a href="https://www.kaggle.com/muhammaddavoudi74"><img src="https://img.shields.io/badge/Kaggle-121011?style=for-the-badge&logo=kaggle&logoColor=20BEFF" /></a>
 </p>
 
 ## 👋 About Me
@@ -27,14 +27,16 @@ Building **production-ready AI systems** with real-world impact.
 ## 🖥️ Skills & Tech Stack
 
 ### 🤖 Agentic AI, Multi-Agent & LLMOps
-![LangChain](https://img.shields.io/badge/LangChain-121011?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-0052FF?style=for-the-badge&logo=langchain&logoColor=white)
-![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3A?style=for-the-badge&logo=langchain&logoColor=FF7043)
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-121011?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-0052FF?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangSmith-1C3C3A?style=for-the-badge&logo=langchain&logoColor=FF7043" />
+</p>
 
 ### 🧠 LLMs, Transformers & NLP
 <p align="left">
   <img src="https://img.shields.io/badge/Transformers-8A2BE2?style=for-the-badge&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-121011?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
@@ -61,3 +63,4 @@ Building **production-ready AI systems** with real-world impact.
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
