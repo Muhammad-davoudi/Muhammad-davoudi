@@ -26,11 +26,10 @@ Building **production-ready AI systems** with real-world impact.
 
 ## 🖥️ Skills & Tech Stack
 
-### 🤖 Agentic AI & Multi-Agent
-<p align="left">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-0052FF?style=for-the-badge&logo=langgraph&logoColor=white" />
-</p>
+### 🤖 Agentic AI, Multi-Agent & LLMOps
+![LangChain](https://img.shields.io/badge/LangChain-121011?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0052FF?style=for-the-badge&logo=langchain&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3A?style=for-the-badge&logo=langchain&logoColor=FF7043)
 
 ### 🧠 LLMs, Transformers & NLP
 <p align="left">
@@ -54,9 +53,11 @@ Building **production-ready AI systems** with real-world impact.
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
 </p>
 
-### ⚙️ MLOps & Deployment
+### ⚙️ MLOps, Infrastructure & Deployment
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/mlflow-121011?style=for-the-badge&logo=mlflow&logoColor=0194E2" />
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
